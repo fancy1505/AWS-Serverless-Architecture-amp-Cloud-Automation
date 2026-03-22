@@ -1,5 +1,5 @@
 # AWS-Serverless-Architecture-amp-Cloud-Automation
-AWS: Serverless Architecture &amp;amp; Cloud Automation
+# elb-5xx-error-alert-lambda
 # System flow:
 •	User Traffic → ELB → CloudWatch → Lambda → SNS → Email
 •	ELB generates 5xx errors 
