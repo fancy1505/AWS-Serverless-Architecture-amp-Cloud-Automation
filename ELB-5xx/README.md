@@ -1,3 +1,4 @@
+
 # AWS-Serverless-Architecture-amp-Cloud-Automation
 # elb-5xx-error-alert-lambda
 # System flow:
@@ -39,7 +40,6 @@ sudo systemctl enable httpd
 <img width="940" height="502" alt="image" src="https://github.com/user-attachments/assets/0619f016-2b7a-42a0-86c7-077034d28c43" />
 <img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/73ff998e-ff25-499e-8398-f4bddc9f4bd6" />
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/7e48756e-2411-404e-ac6f-e14e00161897" />
-
 
 
 
